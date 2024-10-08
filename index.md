@@ -1,1 +1,7 @@
-## [🟢 Solara](https://getsolara.dev/download/static/files/Bootstrapper.exe) (Windows) | [🔴 Hydrogen](https://hydrogen.sh) (MacOS) | [🟢 Delta](https://www.mediafire.com/file/45hxgvuc1zn3aw8/Delta-2.642.637.ipa/file) (iOS) | [🟢 Delta](https://www.mediafire.com/file/qfjvdi10yw05a77/Delta-2.642.635.apk/file) (Android)
+# 🖥️ PC Executor
+## [🟢 Solara](https://getsolara.dev/download/static/files/Bootstrapper.exe) (🪟🪟 Windows) 
+## [🔴 Hydrogen](https://hydrogen.sh) (💻MacOS)
+---
+# 📱 Mobile Executor 
+## [🟢 Delta](https://deltaexploits.gg/delta-executor-ios) (🍎iOS)
+## [🟢 Delta](https://deltaexploits.gg/delta-executor-mobile) (🤖Android)
