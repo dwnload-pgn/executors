@@ -1,7 +1,13 @@
-# 🖥️ PC Executor
-## [🟢 Solara](https://getsolara.dev/download/static/files/Bootstrapper.exe) (🪟🪟 Windows) 
-## [🔴 Hydrogen](https://hydrogen.sh) (💻MacOS)
+# 🖥️ Windows Executor
+## [Solara](https://getsolara.dev/download/static/files/Bootstrapper.exe) | 🟢 WORKING
 ---
-# 📱 Mobile Executor 
-## [🟢 Delta](https://deltaexploits.gg/delta-executor-ios) (🍎iOS)
-## [🟢 Delta](https://deltaexploits.gg/delta-executor-mobile) (🤖Android)
+# 💻 MacOS Executor
+## [Hydrogen](https://hydrogen.sh) | 🔴 NOT WORKING
+---
+# 🍎 iOS Executor
+## [Delta](https://deltaexploits.gg/delta-executor-ios) | 🟢 WORKING
+---
+# 📱 Android Executor
+## [Delta](https://deltaexploits.gg/delta-executor-mobile) | 🟢 WORKING
+
+### Bypass key system here: [Bypass City](https://bypass.city)
